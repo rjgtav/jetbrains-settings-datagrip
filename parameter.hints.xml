@@ -4,6 +4,10 @@
       <blacklist language="Java">
         <added pattern="org.hibernate.query.QueryProducer.createQuery(queryString)" />
       </blacklist>
+      <blacklist language="SQL">
+        <added pattern="climber.climber.util_groupby_rollup(_columns,_parent)" />
+        <added pattern="cache.public.dblink()" />
+      </blacklist>
     </blacklists>
   </component>
 </application>
