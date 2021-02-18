@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="prod.etl.climberhotel.com" id="0333ee14-134f-4d51-b1c5-28370c7ad4bf" keyPath="C:\Users\rjgtav\OneDrive\Roaming\Home\.ssh\id_rsa" port="3939" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
